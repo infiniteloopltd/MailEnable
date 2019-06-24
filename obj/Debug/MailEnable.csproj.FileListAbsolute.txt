@@ -1,0 +1,7 @@
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\bin\Debug\MailEnable.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\bin\Debug\MailEnable.exe
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\bin\Debug\MailEnable.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\bin\Debug\MailEnable.Administration.dll
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\obj\Debug\MailEnable.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\obj\Debug\MailEnable.exe
+c:\users\fiach\documents\visual studio 2013\Projects\MailEnable\obj\Debug\MailEnable.pdb
